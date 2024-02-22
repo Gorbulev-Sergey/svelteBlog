@@ -1,6 +1,6 @@
 <nav class="d-flex align-items-center bg-light position-fixed w-100 p-2" style="top:0">
 	<a class="btn btn-light text-dark bg-transparent border-0 fw-bold text-uppercase me-4" href="/"
-		>Мой блог</a
+		>Привет</a
 	>
 	<div>
 		<a class="btn btn-light text-dark" href="/">Главная</a>
